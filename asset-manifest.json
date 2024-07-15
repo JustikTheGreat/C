@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Castaway/static/css/main.e9647afb.css",
+    "main.js": "/Castaway/static/js/main.af261e35.js",
+    "static/js/453.2ea21069.chunk.js": "/Castaway/static/js/453.2ea21069.chunk.js",
+    "static/media/About.png": "/Castaway/static/media/About.51c295701f6cd3a1a35c.png",
+    "static/media/FaceMic.png": "/Castaway/static/media/FaceMic.d299f4586af0a25a34ab.png",
+    "static/media/Board.png": "/Castaway/static/media/Board.188fe58683fc56e541ae.png",
+    "static/media/Mic.png": "/Castaway/static/media/Mic.dce3e3b712aaa2f5f58c.png",
+    "static/media/Face.jpeg": "/Castaway/static/media/Face.40407a891d4fdce608bb.jpeg",
+    "static/media/Telephone.png": "/Castaway/static/media/Telephone.9ffa697a012119d83e49.png",
+    "index.html": "/Castaway/index.html",
+    "main.e9647afb.css.map": "/Castaway/static/css/main.e9647afb.css.map",
+    "main.af261e35.js.map": "/Castaway/static/js/main.af261e35.js.map",
+    "453.2ea21069.chunk.js.map": "/Castaway/static/js/453.2ea21069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9647afb.css",
+    "static/js/main.af261e35.js"
+  ]
+}
